@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Khushi!
 
-<!--
-**khushi-analytics/khushi-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Risk Data & Reporting Analyst @ NatWest  
+📍 Based in Manchester, UK  
+🛠️ Background in Physics, Computer Science, and Business Analytics  
+🌱 Currently transitioning into Data Science & Machine Learning  
+📚 Learning by building hands-on projects using Python, SQL, and scikit-learn
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+
+- 📊 Data Analysis: Python, Pandas, SQL, Tableau, Power BI  
+- 📈 Statistical Modelling: Linear/Logistic Regression, Hypothesis Testing  
+- 🤖 Machine Learning: scikit-learn, Decision Trees, Random Forests  
+- ☁️ Cloud Tools: AWS Athena, Git, Google Colab  
+- 📦 Others: GitHub, Jupyter Notebooks, VS Code
+
+---
+
+## 🧠 Learning Journey
+
+I'm currently building my **Data Science Portfolio** through:
+
+- 📘 [Linear Regression - Advertising Spend](https://github.com/khushi-analytics/linear-regression-ad-sales)  
+- 🔍 Logistic Regression – Student Performance (in progress)  
+- 🌳 Decision Trees & Random Forests (coming soon)  
+- 📈 Time Series Forecasting (planned)  
+- 🧪 A/B Testing Project (planned)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushi18/)
+  
+---
+
+> “Learn continuously, build openly, and stay curious.”  
