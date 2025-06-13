@@ -22,8 +22,9 @@
 
 I'm currently building my **Data Science Portfolio** through:
 
+- 📊 [Exploratory Data Analysis on Sales Data](https://github.com/khushi-analytics/retail-sales-eda)
 - 📘 [Linear Regression - Advertising Spend](https://github.com/khushi-analytics/linear-regression-ad-sales)  
-- 🔍 Logistic Regression – Student Performance (in progress)  
+- 🔍 [Linear Regression Project - Advertising Spend vs. Sales](https://github.com/khushi-analytics/linear-regression-advertising) 
 - 🌳 Decision Trees & Random Forests (coming soon)  
 - 📈 Time Series Forecasting (planned)  
 - 🧪 A/B Testing Project (planned)
